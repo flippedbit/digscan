@@ -1,0 +1,7 @@
+Written by Michael Straughan 02/25/2012
+
+helps recon for pentesting network tries to find extra servers
+does dig request on ip range based on given CIDR subnet
+
+Usage: ./digscan.sh [base ip] [CIDR]
+Example: ./digscan.sh 96.126.18.0 19
